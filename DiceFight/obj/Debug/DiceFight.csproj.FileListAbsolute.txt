@@ -1,0 +1,7 @@
+C:\Users\Jason\Desktop\DiceFight\DiceFight\bin\Debug\DiceFight.exe.config
+C:\Users\Jason\Desktop\DiceFight\DiceFight\bin\Debug\DiceFight.exe
+C:\Users\Jason\Desktop\DiceFight\DiceFight\bin\Debug\DiceFight.pdb
+C:\Users\Jason\Desktop\DiceFight\DiceFight\obj\Debug\DiceFight.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\DiceFight\DiceFight\obj\Debug\DiceFight.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\DiceFight\DiceFight\obj\Debug\DiceFight.exe
+C:\Users\Jason\Desktop\DiceFight\DiceFight\obj\Debug\DiceFight.pdb
